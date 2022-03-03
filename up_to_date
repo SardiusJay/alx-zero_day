@@ -3,4 +3,4 @@ git add .
 git commit -m "my git work"
 git branch -M main
 git push -u origin main
-git pull https://github.com/SardiusJay/alx-zero_day.git
+git pull
